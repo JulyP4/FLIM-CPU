@@ -1,6 +1,6 @@
-# FLIM_CPU
+# FLIM-CPU
 
-FLIM_CPU is a desktop application for processing fluorescence lifetime imaging (FLIM) data. It delivers CPU-based data loading, analysis, and visualization so researchers can reliably reproduce experiments and explore datasets on standard hardware.
+FLIM-CPU is a desktop application for processing fluorescence lifetime imaging (FLIM) data. It delivers CPU-based data loading, analysis, and visualization so researchers can reliably reproduce experiments and explore datasets on standard hardware.
 
 Official releases are published on GitHub: <https://github.com/JulyP4/FLIM-CPU/releases>.
 
